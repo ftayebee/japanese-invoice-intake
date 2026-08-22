@@ -3,7 +3,7 @@
 - Name: **MD. FAHIM TAYEBEE**
 - Submission date (YYYY-MM-DD): 2026-08-23
 - Hours actually spent: **4 hours**
-- Repository / how to run it: Run `npm ci`, copy `.env.example` to `.env`, replace the `LLM_API_KEY` placeholder with your provider key, then run `npm run dev`; open `http://127.0.0.1:5173`.
+- Repository / how to run it: https://github.com/ftayebee/japanese-invoice-intake — Run `npm ci`, copy `.env.example` to `.env`, replace the `LLM_API_KEY` placeholder with your provider key, then run `npm run dev`; open `http://127.0.0.1:5173`.
 
 ## 1. Understanding the request
 
